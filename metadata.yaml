@@ -1,0 +1,33 @@
+_repo: The-Black-Wolf-Pack_22109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beard, Daniel Carter
+    aliases:
+    - Beard, Dan
+    - Beard, D. C. (Daniel Carter)
+    birthdate: 1850
+    deathdate: 1941
+    gutenberg_agent_id: '8612'
+    url: http://www.gutenberg.org/2009/agents/8612
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Carter_Beard
+description: ''
+gutenberg_issued: '2007-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22109'
+  lccn: '22020347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Hunting stories'
+- !lcsh 'Wilderness areas -- Fiction'
+title: The Black Wolf Pack
+url: http://www.gutenberg.org/ebooks/22109
